@@ -38,4 +38,5 @@ Na quarta parte da atividade foi solicitado a criação de uma tabela Filmes e C
 
 E por último, como foi solicitado, o arquivo PowerPoint contendo todos os MER'S  e DER'S da atividade:
 
-powerpoint
+[Atividade sobre MER_ atividade_2.pptx](https://github.com/gumarson/SQL-Querys/files/14829464/Atividade.sobre.MER_.atividade_2.pptx)
+
