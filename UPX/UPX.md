@@ -56,6 +56,6 @@ INSERT INTO produtos (nome, tipo, estoque, marca) VALUES
 
 Os participantes do grupo são
 
--Gustavo M.
+- Gustavo M.
 - Caio H.
 - Felipe S.
