@@ -139,7 +139,7 @@ FROM
 CROSS JOIN 
     Pizzaiolo pz;
 
-    ![image](https://github.com/gumarson/SQL-Querys/assets/155173740/bc86d73f-fbb2-46ca-8fdf-02e88cb48d2c)
+  ![image](https://github.com/gumarson/SQL-Querys/assets/155173740/bc86d73f-fbb2-46ca-8fdf-02e88cb48d2c)
 
 
 _-----------------------------------------------------------------------------
