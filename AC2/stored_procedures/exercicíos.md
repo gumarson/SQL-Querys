@@ -1,4 +1,4 @@
--- Tabela Professores
+Criação das tabelas e inserção de exemplos : 
 CREATE TABLE Professores (
     id_professor INT PRIMARY KEY,
     nome VARCHAR(100),
@@ -21,6 +21,9 @@ CREATE TABLE Alunos (
     curso_id INT, -- chave estrangeira referenciando a tabela Cursos
     FOREIGN KEY (curso_id) REFERENCES Cursos(id_curso)
 );
+
+![image](https://github.com/gumarson/SQL-Querys/assets/155173740/15e37fdf-a56f-437e-8c69-20a51c7a65fb)
+
 
 
 store procedure - inserir cursos
