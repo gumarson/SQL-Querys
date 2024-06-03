@@ -4,7 +4,7 @@
 <h2>Requisitos:</h2>
 <p>
 - Crie um banco de dados para armazenar os dados dos alunos e cursos de uma universidade;
-  ![image](https://github.com/gumarson/SQL-Querys/assets/155173740/13581e17-7709-4f51-8c81-ccccc89ec263)
+![image](https://github.com/gumarson/SQL-Querys/assets/155173740/13581e17-7709-4f51-8c81-ccccc89ec263)
 
 - Cada curso pode pertencer a somente uma área;
 - Utilize Stored Procedures para automatizar a inserção e seleção dos cursos;
@@ -35,5 +35,7 @@
 
 
 <p>Utilização da procedure para criação de alunos: </p>
+
 ![image](https://github.com/gumarson/SQL-Querys/assets/155173740/3bc7ab21-5e4b-4503-8ec5-53199f7d7130)
+
 ![image](https://github.com/gumarson/SQL-Querys/assets/155173740/29071db4-9e1b-411e-abe9-3ed6d22afdd5)
